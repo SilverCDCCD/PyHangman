@@ -1,7 +1,7 @@
 import random
 
 
-auto_show = ["-", "'", ":"]
+auto_show = ["-", "'", ":", " "]
 guessed_letters = []
 lives = 7
 secret_word = ""
