@@ -163,5 +163,4 @@ def validate_letter(letter: str):
 
 
 if __name__ == "__main__":
-	#start_game()
-	print(len(word_repository))
+	start_game()
